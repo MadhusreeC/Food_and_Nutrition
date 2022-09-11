@@ -1,2 +1,3 @@
 # Food_and_Nutrition
- Investigation of the various relationships between different types of food and the vitamins, minerals, and nutrients they contain
+
+The goal of this project is to investigate the various relationships between different types of foodstuffs and the vitamins, minerals, and nutrients they contain. To this end, we have provided literary analysis, as well as graphical and statistical analysis of the dataset. We have analyzed correlations between many of the different nutrients and chemicals that comprise food, on both a broad and more concentrated levels for specific groupings. We investigated specific relationships further, such as that found between milk products and cholesterol, as well as cholesterol and choline. Furthermore, we aim to display various models, such as those which predict the presence of cholesterol in a particular food based on various other variables.
